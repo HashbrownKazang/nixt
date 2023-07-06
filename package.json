@@ -1,0 +1,34 @@
+{
+  "name": "nixd",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18",
+    "nuxi": "^3.6.2",
+    "nuxt": "^3.6.2",
+    "typescript": "^5.0.0",
+    "vite": "^4.3.9",
+    "vue": "^3.3.4",
+    "vue-tsc": "^1.8.4",
+    "yarn": "latest"
+  },
+  "dependencies": {
+    "firebase": "^9.23.0",
+    "nuxi": "^3.6.2",
+    "typescript": "^5.0.0",
+    "vite": "^4.3.9",
+    "vue": "^3.3.4",
+    "vue-tsc": "^1.8.4",
+    "nuxt": "^3.6.2",
+    "yarn": "latest"
+  }
+}
